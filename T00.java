@@ -1,4 +1,5 @@
-// 12s25017 - FENITA ANJELINA SIMBOLON
+// 12S25017 - FENITA ANJELINA SIMBOLON
+// 12S25048 - POSMAN H.C. SITINJAK
 
 import java.util.*;
 import java.lang.Math;
